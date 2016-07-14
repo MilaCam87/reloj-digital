@@ -1,0 +1,29 @@
+#pClock {
+	text-align: center;
+	margin-top: 200px;
+}
+
+.fecha {
+	text-align: center;
+	margin-left: 520px;
+}
+
+h1 {
+	display: inline;
+	color: whitesmoke;
+}
+
+body {
+	background-image: url("cassette_music_vintage_film_44403_1920x1080.jpg");
+	background-attachment: fixed;
+}
+
+button{
+	margin-top: 60px;
+	font-size: 30px;
+	margin-bottom: 150px;
+}
+
+input{
+	display: inline-block;
+}
